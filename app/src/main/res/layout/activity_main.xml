@@ -82,7 +82,6 @@
         android:layout_width="317dp"
         android:layout_height="167dp"
         android:layout_marginTop="16dp"
-
         app:layout_constraintBottom_toTopOf="@+id/timeline"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
